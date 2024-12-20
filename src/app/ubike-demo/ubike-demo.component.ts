@@ -46,13 +46,12 @@ export class UbikeDemoComponent {
       .attr('r', 4)
       .style('fill', 'grey');
 
-    // const tooltips = d3
-    //   .select(this.el.nativeElement)
-    //   .select('.container')
-    const tooltips = g
+    const tooltips = d3
+      .select(this.el.nativeElement)
+      .select('.container')
       .append('div')
       .style('opacity', 0)
-      .style('position', 'fixed')
+      .style('position', 'absolute')
       .style('background-color', 'white')
       .style('border', 'solid')
       .style('border-width', '2px')
