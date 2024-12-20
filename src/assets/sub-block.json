@@ -1,0 +1,818 @@
+[
+    {
+        "fromVertex": {
+            "id": "3-1",
+            "milepost": 10000,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "H1T_R",
+        "name": "H1T",
+        "toVertex": {
+            "id": "3-2",
+            "isYard": false,
+            "milepost": 10251,
+            "platformName": "N2W-N"
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-2",
+            "milepost": 10251,
+            "isYard": false,
+            "platformName": "N2W-N"
+        },
+        "id": "H1T_L",
+        "name": "H1T",
+        "toVertex": {
+            "id": "3-3",
+            "isYard": false,
+            "milepost": 10500,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-3",
+            "milepost": 10500,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C1T_1",
+        "name": "C1T_1",
+        "toVertex": {
+            "id": "3-4",
+            "isYard": false,
+            "milepost": 11300,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-4",
+            "milepost": 11300,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "AV1T_R",
+        "name": "AV1T",
+        "toVertex": {
+            "id": "3-5",
+            "isYard": true,
+            "milepost": 11398,
+            "platformName": "AV1"
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-5",
+            "milepost": 11398,
+            "isYard": true,
+            "platformName": "AV1"
+        },
+        "id": "AV1T_L",
+        "name": "AV1T",
+        "toVertex": {
+            "id": "3-6",
+            "isYard": false,
+            "milepost": 11503,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-3",
+            "milepost": 10500,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C1T_2",
+        "name": "C1T_2",
+        "toVertex": {
+            "id": "3-7",
+            "isYard": false,
+            "milepost": 10960,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-7",
+            "milepost": 10960,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C1T_3",
+        "name": "C1T_3",
+        "toVertex": {
+            "id": "3-4",
+            "isYard": false,
+            "milepost": 11300,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-7",
+            "milepost": 10960,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C1T_4",
+        "name": "C1T_4",
+        "toVertex": {
+            "id": "3-8",
+            "isYard": false,
+            "milepost": 11432,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-8",
+            "milepost": 11432,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "W1T",
+        "name": "W1T",
+        "toVertex": {
+            "id": "3-9",
+            "isYard": false,
+            "milepost": 14005,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-9",
+            "milepost": 14005,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "W2T",
+        "name": "W2T",
+        "toVertex": {
+            "id": "3-10",
+            "isYard": false,
+            "milepost": 16205,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-13",
+            "milepost": 10500,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C2T_2",
+        "name": "C2T_2",
+        "toVertex": {
+            "id": "3-7",
+            "isYard": false,
+            "milepost": 10960,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-7",
+            "milepost": 10960,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C2T_3",
+        "name": "C2T_3",
+        "toVertex": {
+            "id": "3-14",
+            "isYard": false,
+            "milepost": 11433,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-11",
+            "milepost": 10000,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "H2T_R",
+        "name": "H2T",
+        "toVertex": {
+            "id": "3-12",
+            "isYard": false,
+            "milepost": 10254,
+            "platformName": "N2W-S"
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-12",
+            "milepost": 10254,
+            "isYard": false,
+            "platformName": "N2W-S"
+        },
+        "id": "H2T_L",
+        "name": "H2T",
+        "toVertex": {
+            "id": "3-13",
+            "isYard": false,
+            "milepost": 10500,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-13",
+            "milepost": 10500,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C2T_1",
+        "name": "C2T_1",
+        "toVertex": {
+            "id": "3-14",
+            "isYard": false,
+            "milepost": 11433,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-14",
+            "milepost": 11433,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "E1T",
+        "name": "E1T",
+        "toVertex": {
+            "id": "3-15",
+            "isYard": false,
+            "milepost": 14006,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-15",
+            "milepost": 14006,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "E2T",
+        "name": "E2T",
+        "toVertex": {
+            "id": "3-16",
+            "isYard": false,
+            "milepost": 16206,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-10",
+            "milepost": 16205,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "W3T",
+        "name": "W3T",
+        "toVertex": {
+            "id": "2-7",
+            "isYard": false,
+            "milepost": 19511,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "3-16",
+            "milepost": 16206,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "E3T",
+        "name": "E3T",
+        "toVertex": {
+            "id": "2-11",
+            "isYard": false,
+            "milepost": 19511,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-1",
+            "milepost": 20111,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "H3T_R",
+        "name": "H3T",
+        "toVertex": {
+            "id": "2-2",
+            "isYard": false,
+            "milepost": 20212,
+            "platformName": "T3-W"
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-2",
+            "milepost": 20212,
+            "isYard": false,
+            "platformName": "T3-W"
+        },
+        "id": "H3T_L",
+        "name": "H3T",
+        "toVertex": {
+            "id": "2-3",
+            "isYard": false,
+            "milepost": 20310,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-3",
+            "milepost": 20310,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C5T_1",
+        "name": "C5T_1",
+        "toVertex": {
+            "id": "2-4",
+            "isYard": false,
+            "milepost": 21000,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-4",
+            "milepost": 21000,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "AV2T_R",
+        "name": "AV2T",
+        "toVertex": {
+            "id": "2-5",
+            "isYard": true,
+            "milepost": 21100,
+            "platformName": "AV2"
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-5",
+            "milepost": 21100,
+            "isYard": true,
+            "platformName": "AV2"
+        },
+        "id": "AV2T_L",
+        "name": "AV2T",
+        "toVertex": {
+            "id": "2-6",
+            "isYard": false,
+            "milepost": 21200,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-7",
+            "milepost": 19511,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C3T_1",
+        "name": "C3T_1",
+        "toVertex": {
+            "id": "2-1",
+            "isYard": false,
+            "milepost": 20111,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-8",
+            "milepost": 20000,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C3T_2",
+        "name": "C3T_2",
+        "toVertex": {
+            "id": "2-1",
+            "isYard": false,
+            "milepost": 20111,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-3",
+            "milepost": 20310,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C5T_2_R",
+        "name": "C5T_2",
+        "toVertex": {
+            "id": "2-9",
+            "isYard": false,
+            "milepost": 20700,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-9",
+            "milepost": 20700,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C5T_2_L",
+        "name": "C5T_2",
+        "toVertex": {
+            "id": "2-10",
+            "isYard": false,
+            "milepost": 21000,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-12",
+            "milepost": 19700,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C4T_2",
+        "name": "C4T_2",
+        "toVertex": {
+            "id": "2-8",
+            "isYard": false,
+            "milepost": 20000,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-9",
+            "milepost": 20700,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C6T_2",
+        "name": "C6T_2",
+        "toVertex": {
+            "id": "2-16",
+            "isYard": false,
+            "milepost": 21001,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-11",
+            "milepost": 19511,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C4T_1_R",
+        "name": "C4T_1",
+        "toVertex": {
+            "id": "2-12",
+            "isYard": false,
+            "milepost": 19700,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-12",
+            "milepost": 19700,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C4T_1_L",
+        "name": "C4T_1",
+        "toVertex": {
+            "id": "2-13",
+            "isYard": false,
+            "milepost": 20111,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-13",
+            "milepost": 20111,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "H4T_R",
+        "name": "H4T",
+        "toVertex": {
+            "id": "2-14",
+            "isYard": false,
+            "milepost": 20201,
+            "platformName": "T3-E"
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-14",
+            "milepost": 20201,
+            "isYard": false,
+            "platformName": "T3-E"
+        },
+        "id": "H4T_L",
+        "name": "H4T",
+        "toVertex": {
+            "id": "2-15",
+            "isYard": false,
+            "milepost": 20312,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-15",
+            "milepost": 20312,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C6T_1",
+        "name": "C6T_1",
+        "toVertex": {
+            "id": "2-16",
+            "isYard": false,
+            "milepost": 21001,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-10",
+            "milepost": 21000,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "W4T",
+        "name": "W4T",
+        "toVertex": {
+            "id": "1-5",
+            "isYard": false,
+            "milepost": 24050,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "2-16",
+            "milepost": 21001,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "E4T",
+        "name": "E4T",
+        "toVertex": {
+            "id": "1-8",
+            "isYard": false,
+            "milepost": 24050,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-1",
+            "milepost": 29060,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C8T_1",
+        "name": "C8T_1",
+        "toVertex": {
+            "id": "1-2",
+            "isYard": false,
+            "milepost": 29814,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-2",
+            "milepost": 29814,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "H6T_R",
+        "name": "H6T",
+        "toVertex": {
+            "id": "1-3",
+            "isYard": false,
+            "milepost": 30060,
+            "platformName": "S2W-S"
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-3",
+            "milepost": 30060,
+            "isYard": false,
+            "platformName": "S2W-S"
+        },
+        "id": "H6T_L",
+        "name": "H6T",
+        "toVertex": {
+            "id": "1-4",
+            "isYard": false,
+            "milepost": 30314,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-1",
+            "milepost": 29060,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "W6T",
+        "name": "W6T",
+        "toVertex": {
+            "id": "1-6",
+            "isYard": false,
+            "milepost": 26555,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-1",
+            "milepost": 29060,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C8T_3",
+        "name": "C8T_3",
+        "toVertex": {
+            "id": "1-7",
+            "isYard": false,
+            "milepost": 29310,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-7",
+            "milepost": 29310,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C8T_2",
+        "name": "C8T_2",
+        "toVertex": {
+            "id": "1-2",
+            "isYard": false,
+            "milepost": 29814,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-5",
+            "milepost": 24050,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "W5T",
+        "name": "W5T",
+        "toVertex": {
+            "id": "1-6",
+            "isYard": false,
+            "milepost": 26555,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-10",
+            "milepost": 29060,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C7T_3",
+        "name": "C7T_3",
+        "toVertex": {
+            "id": "1-7",
+            "isYard": false,
+            "milepost": 29310,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-7",
+            "milepost": 29310,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C7T_2",
+        "name": "C7T_2",
+        "toVertex": {
+            "id": "1-11",
+            "isYard": false,
+            "milepost": 29814,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-8",
+            "milepost": 24050,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "E5T",
+        "name": "E5T",
+        "toVertex": {
+            "id": "1-9",
+            "isYard": false,
+            "milepost": 26555,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-9",
+            "milepost": 26555,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "E6T",
+        "name": "E6T",
+        "toVertex": {
+            "id": "1-10",
+            "isYard": false,
+            "milepost": 29060,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-10",
+            "milepost": 29060,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "C7T_1",
+        "name": "C7T_1",
+        "toVertex": {
+            "id": "1-11",
+            "isYard": false,
+            "milepost": 29814,
+            "platformName": null
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-11",
+            "milepost": 29814,
+            "isYard": false,
+            "platformName": null
+        },
+        "id": "H5T_R",
+        "name": "H5T",
+        "toVertex": {
+            "id": "1-12",
+            "isYard": false,
+            "milepost": 30060,
+            "platformName": "S2W-N"
+        }
+    },
+    {
+        "fromVertex": {
+            "id": "1-12",
+            "milepost": 30060,
+            "isYard": false,
+            "platformName": "S2W-N"
+        },
+        "id": "H5T_L",
+        "name": "H5T",
+        "toVertex": {
+            "id": "1-13",
+            "isYard": false,
+            "milepost": 30314,
+            "platformName": null
+        }
+    }
+]
